@@ -33,6 +33,7 @@ public class mainsdetails {
 		for(StudentModule n:students){
 			System.out.println(n.studentname);
 			System.out.println("one student details");
+			System.out.println("online course details");
 			System.out.println(n.email);
 			System.out.println(n.Mobilenumber);
 			System.out.println(n.getStudentid());
